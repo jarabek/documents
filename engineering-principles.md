@@ -133,9 +133,17 @@ When determining priorities, ask whether something is a priority because it's *u
 
 ---
 
+> *"Only cost centers brag about cost savings."*
+> — [Laura Tacho](https://www.linkedin.com/in/lauratacho/)
+
+Engineers and technical staff can be value generators or cost centres. You want to be a value generator (i.e. your impact makes the company money).    
+  
+---
+
 **Correlation is not causation.** Make decisions based on data, not emotions or gut feeling.
 
 ---
+
 
 **Organizational hygiene:**
 - A mislabeled item or location is worse than an unlabeled one.
