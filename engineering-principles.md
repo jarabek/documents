@@ -153,6 +153,16 @@ When determining priorities, ask whether something is a priority because it's *u
 
 ---
 
+**On Availability**
+
+Availability (being reachable, present, engaged, and following through) is one of the most underrated leadership traits. It’s not about being in every meeting or responding to every message. It’s about:
+1. Making Good: Following through on commitments and closing loops.
+2. Making Time: Prioritizing access for crucial people and decisions.
+3. Making Space: Being fully present and attentive during interactions.
+4. Making Calls: Deciding and operationalizing in a timely fasion.
+
+---
+
 ## Leadership Philosophy
 
 *Parts of this section draw from Jocko Willink's work on Extreme Ownership and the broader literature on servant leadership.*
