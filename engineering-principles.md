@@ -1,6 +1,6 @@
 # Engineering & Leadership Principles
 
-*A living document capturing my approach to building software products and leading high-performance engineering teams. These principles are a mixture of lessons learned from years of practice, and insights of people smarter than me. I've tried to give credit where it's due.*
+*A living document capturing my approach to building software products and leading high-performance engineering teams. These principles are a mixture of lessons learned from years of practice, and insights of people smarter than me, most notably my mentor [Sandy Anuras](https://www.linkedin.com/in/sandyanuras/). I've tried to give credit where it's due.*
 
 ---
 
