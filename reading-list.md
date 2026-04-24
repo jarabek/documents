@@ -16,6 +16,8 @@
 
 **Know your biases and logical fallacies:** [yourbias.is](https://yourbias.is/)
 
+**A much more comprehensive list of Engineering Laws:** [Engineering Laws](https://lawsofsoftwareengineering.com/)
+
 **Know the technical fallacies:** [8 Fallacies of Distributed Systems](https://www.simpleorientedarchitecture.com/8-fallacies-of-distributed-systems/)
 
 **The Project Management Triangle:** [Wiki](https://en.wikipedia.org/wiki/Project_management_triangle) 
