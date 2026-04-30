@@ -9,9 +9,6 @@
 1. [Engineering Principles](#engineering-principles)
 2. [Things to Remember](#things-to-remember)
 3. [Leadership Philosophy](#leadership-philosophy)
-4. [What I Expect from My Team](#what-i-expect-from-my-team)
-5. [What My Team Can Expect from Me](#what-my-team-can-expect-from-me)
-6. [Recommended Reading](#recommended-reading)
 
 ---
 
